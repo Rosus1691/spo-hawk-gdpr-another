@@ -12,7 +12,7 @@ import * as strings from 'HelloWorldWebPartStrings';
 import HelloWorld from './components/HelloWorld';
 import { IHelloWorldProps } from './components/IHelloWorldProps';
 
-//sample commit
+//sample commit...
 export interface IHelloWorldWebPartProps {
   description: string;
   checkboxValue:boolean;
